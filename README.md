@@ -56,8 +56,7 @@ npm run dev
 
 ## Teknolojiler
 
-- Laravel 10
-- Vue.js
+- Laravel 12
 - MySQL
 - Bootstrap
 
