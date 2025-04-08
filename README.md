@@ -43,7 +43,6 @@ php artisan migrate
 6. Uygulamayı çalıştırın:
 ```bash
 php artisan serve
-npm run dev
 ```
 
 ## Kullanım
