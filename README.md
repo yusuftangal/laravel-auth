@@ -21,7 +21,6 @@ cd laravel-auth
 2. Bağımlılıkları yükleyin:
 ```bash
 composer install
-npm install
 ```
 
 3. `.env` dosyasını oluşturun:
